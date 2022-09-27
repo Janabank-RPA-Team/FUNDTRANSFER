@@ -1,0 +1,7 @@
+#Mapping values
+#Mon Sep 12 13:16:39 IST 2022
+ID=Id
+UTR_NUMBER=Transaction_UTR_No__c
+REMARKS=Remarks__c
+\uFEFFFT_STATUS=FT_Status__c
+FT_INNITIATED_DATE=FT_Initiated_Date__c

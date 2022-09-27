@@ -1,0 +1,7 @@
+#Mapping values
+#Mon Sep 12 13:04:03 IST 2022
+ID=Id
+Application\ Status=Opportunity_Status__c
+Actual\ Disbursement\ Date=Actual_DisbursementDate__c
+Opportunity\ Status=Status__c
+\uFEFFCBS\ Loan\ Status=CBS_Loan_Status__c
